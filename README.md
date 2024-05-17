@@ -1,4 +1,4 @@
-# MEDSERVE
+# MedServe
 
 An online medical inventory management system designed for medicine resellers.
 
